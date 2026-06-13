@@ -1,6 +1,6 @@
 # x5y8pxNegaClip「ネガクリップ」
 
-(　現在作業中！　ここにサムネイル画像　)
+![NegaClip](documentation/x5y8pxNegaClip.png)
 
 ## 概要
 - 白抜きの文字の外縁が重なり合う極小サイズのピクセルフォントです。
